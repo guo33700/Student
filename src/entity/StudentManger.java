@@ -11,6 +11,8 @@ public class StudentManger implements Serializable{
 	private int age;
 	private String id;
 	private String address;
+	private String gdabcjasb;
+	private String gdabcjas;
 	public String getName() {
 		return name;
 	}
